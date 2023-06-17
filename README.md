@@ -1,11 +1,11 @@
-About r-bsplus
-==============
+About r-bsplus-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-bsplus-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ijlyttle/bsplus
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-bsplus-feedstock/blob/main/LICENSE.txt)
 
 Summary: The Bootstrap framework lets you add some JavaScript functionality to your web site by adding attributes to your HTML tags - Bootstrap takes care of the JavaScript <https://getbootstrap.com/javascript>. If you are using R Markdown or Shiny, you can use these functions to create collapsible sections, accordion panels, modals, tooltips, popovers, and an accordion sidebar framework (not described at Bootstrap site).
 
